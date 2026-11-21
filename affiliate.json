@@ -1,0 +1,286 @@
+{
+  "markets": {
+    "com.shopee.vn": {
+      "badge_text": "Gợi ý phụ kiện BIGBANG • Tiếp thị liên kết",
+      "headline": "Bộ sưu tập phụ kiện hot cho V.I.P & BIGBANG",
+      "cta_text": "Sắm trên Shopee",
+      "items": [
+        {
+          "id": "bigbang_vn_01",
+          "title": "Set Photocard BIGBANG 20th Anniversary - Thẻ Bo Góc Kỷ Niệm 20 Năm Nắng Decor",
+          "price": "15.000đ",
+          "original_price": "28.000đ",
+          "image_url": "https://down-tx-vn.img.susercontent.com/vn-11134207-81ztc-mv707l6i6qyrf6.webp",
+          "aff_link": "https://s.shopee.vn/2La24J9b6M"
+        },
+        {
+          "id": "bigbang_vn_02",
+          "title": "Cài Tóc & Gậy Phát Sáng Cổ Vũ BIGBANG Vương Miện Crown Lightstick Vòng Tay Concert V.I.P",
+          "price": "35.000đ",
+          "original_price": "59.000đ",
+          "image_url": "https://down-tx-vn.img.susercontent.com/vn-11134207-81ztc-mq1scf9qe0i32a.webp",
+          "aff_link": "https://s.shopee.vn/1W0v4mupsy"
+        },
+        {
+          "id": "bigbang_vn_03",
+          "title": "Dây Đeo Lightstick BIGBANG World Tour Hoa Cúc V.I.P Tiện Lợi Tránh Thất Lạc",
+          "price": "39.000đ",
+          "original_price": "65.000đ",
+          "image_url": "https://down-tx-vn.img.susercontent.com/vn-11134207-81ztc-mt3i3i2qu6th6e.webp",
+          "aff_link": "https://s.shopee.vn/7VI8DpT7c8"
+        },
+        {
+          "id": "bigbang_vn_04",
+          "title": "Set Photocard G-DRAGON Solo Übermensch - Thẻ Bo Góc Kwon Ji Yong Nắng Decor",
+          "price": "15.000đ",
+          "original_price": "28.000đ",
+          "image_url": "https://down-tx-vn.img.susercontent.com/vn-11134207-81ztc-mv2o8dp8h1xk00.webp",
+          "aff_link": "https://s.shopee.vn/2VtSGePp4H"
+        },
+        {
+          "id": "bigbang_vn_05",
+          "title": "Áo Thun Baby Tee BIGBANG Phím Đàn G-Dragon Nữ Form Ôm Streetwear Cá Tính",
+          "price": "129.000đ",
+          "original_price": "199.000đ",
+          "image_url": "https://down-tx-vn.img.susercontent.com/vn-11134207-81ztc-msgrw8v2oglld8.webp",
+          "aff_link": "https://s.shopee.vn/5q9uEmrpYT"
+        }
+      ]
+    },
+    "com.shopee.my": {
+      "badge_text": "BIGBANG Merch Picks • Sponsored",
+      "headline": "Must-Have BIGBANG & V.I.P Collectibles",
+      "cta_text": "Shop on Shopee",
+      "items": [
+        {
+          "id": "bigbang_my_01",
+          "title": "BIGBANG Album《BiiiG》Lomo Card Photocard Postcard 60pcs Card 32pcs Small Sticker",
+          "price": "RM 6.50",
+          "original_price": "RM 12.00",
+          "image_url": "https://down-my.img.susercontent.com/file/sg-11134201-825ab-msppai14h7glf7.webp",
+          "aff_link": "https://invl.me/clo9kcr"
+        },
+        {
+          "id": "bigbang_my_02",
+          "title": "BIGBANG OFFICIAL LIGHTSTICK Ver 4 2025 Concert Fanlight Crown Light Stick",
+          "price": "RM 145.00",
+          "original_price": "RM 220.00",
+          "image_url": "https://down-my.img.susercontent.com/file/sg-11134275-7rfgb-m9vp5aq774wf8d.webp",
+          "aff_link": "https://invl.me/clo9kcs"
+        },
+        {
+          "id": "bigbang_my_03",
+          "title": "BIGBANG 20th Anniversary Mini Lightstick Keychain (2 Small and Medium Versions)",
+          "price": "RM 18.50",
+          "original_price": "RM 32.00",
+          "image_url": "https://down-my.img.susercontent.com/file/vn-11134207-81ztc-mqlfe8i4uu4v30.webp",
+          "aff_link": "https://invl.me/clo9kct"
+        },
+        {
+          "id": "bigbang_my_04",
+          "title": "( BIGBANG ) DAESUNG 1st Mini Album D's Wave Yellow Ver.",
+          "price": "RM 68.00",
+          "original_price": "RM 110.00",
+          "image_url": "https://down-my.img.susercontent.com/file/sg-11134207-7rd6j-m7j2bk8frbw024.webp",
+          "aff_link": "https://invl.me/clo9kcu"
+        },
+        {
+          "id": "bigbang_my_05",
+          "title": "BIGBANG - THE BEST OF BIGBANG 2006-2014 (3CD Album Set)",
+          "price": "RM 85.00",
+          "original_price": "RM 135.00",
+          "image_url": "https://down-my.img.susercontent.com/file/my-11134207-820li-msrx0a9m9k3ued.webp",
+          "aff_link": "https://invl.me/clo9kcv"
+        }
+      ]
+    },
+    "com.shopee.sg": {
+      "badge_text": "BIGBANG Merch Picks • Sponsored",
+      "headline": "Top Rated BIGBANG & V.I.P Accessories",
+      "cta_text": "Shop on Shopee",
+      "items": [
+        {
+          "id": "bigbang_sg_01",
+          "title": "BIGBANG 26/27 XX COSMOS 20th Anniversary Concert Poster Print Pure Cotton T-Shirt",
+          "price": "S$ 16.90",
+          "original_price": "S$ 28.00",
+          "image_url": "https://down-sg.img.susercontent.com/file/sg-11134202-825ay-mtnt4qwk385gc8.webp",
+          "aff_link": "https://invl.me/clo9kem"
+        },
+        {
+          "id": "bigbang_sg_02",
+          "title": "BIGBANG Mini Light Stick VIP Concert Crown Lightstick Keychain G-Dragon Keyring",
+          "price": "S$ 5.90",
+          "original_price": "S$ 10.50",
+          "image_url": "https://down-sg.img.susercontent.com/file/sg-11134201-81zti-mmvbouw1pbm03a.webp",
+          "aff_link": "https://invl.me/clo9ken"
+        },
+        {
+          "id": "bigbang_sg_03",
+          "title": "G-Dragon BIGBANG Crown Acrylic Key Chain Concert Accessories Fan Support",
+          "price": "S$ 4.50",
+          "original_price": "S$ 8.00",
+          "image_url": "https://down-sg.img.susercontent.com/file/cn-11134207-7ras8-mcrvckluhgjka2.webp",
+          "aff_link": "https://invl.me/clo9kep"
+        },
+        {
+          "id": "bigbang_sg_04",
+          "title": "BIGBANG 20th Anniversary COSMOS World Tour Pop-Up MD Official Goods (IN GOYANG CITY)",
+          "price": "S$ 29.90",
+          "original_price": "S$ 48.00",
+          "image_url": "https://down-sg.img.susercontent.com/file/sg-11134207-825a9-mrssdk55fpj49e.webp",
+          "aff_link": "https://invl.me/clo9ket"
+        },
+        {
+          "id": "bigbang_sg_05",
+          "title": "BIGBANG XX COSMOS World Tour Shirt Concert Comeback Tour Comfort Colors Tee Kpop Fan Gift",
+          "price": "S$ 18.90",
+          "original_price": "S$ 30.00",
+          "image_url": "https://down-sg.img.susercontent.com/file/sg-11134202-82588-mtoo98usra4gab.webp",
+          "aff_link": "https://invl.me/clo9kew"
+        }
+      ]
+    },
+    "com.shopee.ph": {
+      "badge_text": "BIGBANG Merch Picks • Sponsored",
+      "headline": "Trending BIGBANG Merchandise for V.I.P",
+      "cta_text": "Check on Shopee",
+      "items": [
+        {
+          "id": "bigbang_ph_01",
+          "title": "BigBang Black Light Stick Strap VIP V.I.P. Lanyard by twobarehandsph",
+          "price": "₱ 189",
+          "original_price": "₱ 299",
+          "image_url": "https://down-ph.img.susercontent.com/file/ph-11134207-7rash-m58k2lpopgd6e6.webp",
+          "aff_link": "https://invl.me/clo9ke4"
+        },
+        {
+          "id": "bigbang_ph_02",
+          "title": "Twilly Scarf Kpop Idol BIGBANG Silk Ribbon Bag Handle Accessory for V.I.P",
+          "price": "₱ 89",
+          "original_price": "₱ 150",
+          "image_url": "https://down-ph.img.susercontent.com/file/vn-11134207-81ztc-mpasmadlhdky32.webp",
+          "aff_link": "https://invl.me/clo9ke6"
+        },
+        {
+          "id": "bigbang_ph_03",
+          "title": "BigBang XX Cosmos World Tour Kpop Mesh Cap Trucker Hat Sublimation Print",
+          "price": "₱ 199",
+          "original_price": "₱ 320",
+          "image_url": "https://down-ph.img.susercontent.com/file/ph-11134207-820le-mt6myzg88ikieb.webp",
+          "aff_link": "https://invl.me/clo9kea"
+        },
+        {
+          "id": "bigbang_ph_04",
+          "title": "55Pcs BIGBANG BiiiG Lomo Cards Korean Boy Group IDOL Fan Collectible Cards",
+          "price": "₱ 95",
+          "original_price": "₱ 160",
+          "image_url": "https://down-ph.img.susercontent.com/file/sg-11134201-825b7-mtjb58ione9sf2.webp",
+          "aff_link": "https://invl.me/clo9kec"
+        },
+        {
+          "id": "bigbang_ph_05",
+          "title": "BIGBANG 20th Official Light Stick Mini Keyring Concert Goods COSMOS Exhibition MD G-DRAGON",
+          "price": "₱ 249",
+          "original_price": "₱ 390",
+          "image_url": "https://down-ph.img.susercontent.com/file/sg-11134207-8259h-msc7nb1kekn8e6.webp",
+          "aff_link": "https://invl.me/clo9kef"
+        }
+      ]
+    },
+    "com.shopee.br": {
+      "badge_text": "Destaques BIGBANG • Patrocinado",
+      "headline": "Acessórios e Colecionáveis Incríveis do BIGBANG para V.I.P",
+      "cta_text": "Comprar na Shopee",
+      "items": [
+        {
+          "id": "bigbang_br_01",
+          "title": "30-124pcs BIGBANG Laser Holográfico Lomo Cartões G-DRAGON Übermensch POWER GD Photocards",
+          "price": "R$ 19,90",
+          "original_price": "R$ 35,00",
+          "image_url": "https://down-br.img.susercontent.com/file/sg-11134201-7rav2-madjucj7fr0wb0.webp",
+          "aff_link": "https://invl.app/clo9kd0"
+        },
+        {
+          "id": "bigbang_br_02",
+          "title": "Camiseta Unissex BIGBANG 'Paved The Way' KPOP Aesthetic Vintage T-Shirt",
+          "price": "R$ 39,90",
+          "original_price": "R$ 65,00",
+          "image_url": "https://down-br.img.susercontent.com/file/br-11134207-81ztw-mkyqayer20w100.webp",
+          "aff_link": "https://invl.app/clo9kd2"
+        },
+        {
+          "id": "bigbang_br_03",
+          "title": "Kpop Idol BIGBANG G-DRAGON & TAEYANG Cartão de Turnê Mundial Lomo Photocards",
+          "price": "R$ 18,50",
+          "original_price": "R$ 32,00",
+          "image_url": "https://down-br.img.susercontent.com/file/sg-11134201-8258c-msdgyijquozk58.webp",
+          "aff_link": "https://invl.app/clo9kd4"
+        },
+        {
+          "id": "bigbang_br_04",
+          "title": "BIGBANG XX COSMOS Tour MD Good Luck Doll Keyring Chaveiro Pelúcia Oficial",
+          "price": "R$ 49,90",
+          "original_price": "R$ 85,00",
+          "image_url": "https://down-br.img.susercontent.com/file/sg-11134207-825ay-mrqpog73sz5uc1.webp",
+          "aff_link": "https://invl.app/clo9kd5"
+        },
+        {
+          "id": "bigbang_br_05",
+          "title": "BIGBANG XX COSMOS Tour MD Good Luck Doll Keyring Chaveiro Pelúcia V.I.P Special Edition",
+          "price": "R$ 49,90",
+          "original_price": "R$ 85,00",
+          "image_url": "https://down-br.img.susercontent.com/file/sg-11134207-825ay-mrqpog73sz5uc1.webp",
+          "aff_link": "https://invl.app/clo9kd8"
+        }
+      ]
+    },
+    "com.shopee.mx": {
+      "badge_text": "Destacados BIGBANG • Patrocinado",
+      "headline": "Coleccionables y Accesorios de BIGBANG para V.I.P",
+      "cta_text": "Comprar en Shopee",
+      "items": [
+        {
+          "id": "bigbang_mx_01",
+          "title": "Nuevo Muñeco De Peluche BIGBANG T.O.P 10cm Choi Seung Hyun K-POP Regalo",
+          "price": "$ 179",
+          "original_price": "$ 290",
+          "image_url": "https://down-mx.img.susercontent.com/file/cn-11134207-7ras8-mdfsi6tsgs3t4b.webp",
+          "aff_link": "https://invl.app/clo9kdo"
+        },
+        {
+          "id": "bigbang_mx_02",
+          "title": "BIGBANG Palo De Luz Oficial Ver 4 Lightstick Crown Fanlight Concierto",
+          "price": "$ 499",
+          "original_price": "$ 850",
+          "image_url": "https://down-mx.img.susercontent.com/file/dd1503a8e92460f115b72097827d9e76.webp",
+          "aff_link": "https://invl.app/clo9kdr"
+        },
+        {
+          "id": "bigbang_mx_03",
+          "title": "Choi Seung Hyun T.O.P Tarjeta Transparente Acrílico BIGBANG Colgante Decorativo",
+          "price": "$ 89",
+          "original_price": "$ 150",
+          "image_url": "https://down-mx.img.susercontent.com/file/sg-11134201-825ar-mtjc8791h4w6f8.webp",
+          "aff_link": "https://invl.app/clo9kdt"
+        },
+        {
+          "id": "bigbang_mx_04",
+          "title": "Kwon Ji-Yong G-Dragon Bolsa De Lona BIGBANG Gran Capacidad Tote Bag V.I.P",
+          "price": "$ 199",
+          "original_price": "$ 320",
+          "image_url": "https://down-mx.img.susercontent.com/file/sg-11134201-8257v-mvr4rmmdzyte87.webp",
+          "aff_link": "https://invl.app/clo9kdw"
+        },
+        {
+          "id": "bigbang_mx_05",
+          "title": "Llavero Acrílico Con Luz De Corona BIGBANG Colgante Concierto G-Dragon V.I.P",
+          "price": "$ 99",
+          "original_price": "$ 160",
+          "image_url": "https://down-mx.img.susercontent.com/file/sg-11134201-8258q-mvio7d3s2oef4a.webp",
+          "aff_link": "https://invl.app/clo9kdx"
+        }
+      ]
+    }
+  }
+}
